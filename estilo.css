@@ -1,0 +1,38 @@
+body {
+    background-color: lightskyblue;
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    text-align: justify;
+}
+
+ul li {
+    margin-bottom: 20px;
+}
+
+img {
+    border-radius: 20px;
+    width: 200px;
+}
+
+table {
+    border: 1px solid black;
+    text-align: center;
+    color: aliceblue;
+    background-color: blue;
+}
+
+
+a:hover {
+    color: yellow;
+}
+
+.mensagem {
+    margin-top: 1px;
+}
